@@ -1,0 +1,41 @@
+/* hoja de estilo Practica 8c css */
+
+*{
+    box-sizing: border-box;
+    /* border-style:groove ; */
+    /* margin: 0px; */
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+header, footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+article {
+    background-color:rgb(224, 72, 72);
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    /* hace que el color cubra todo el area d article */
+    overflow: auto;
+}
+
+section {
+    background-color: rgb(170, 107, 107);
+    padding: 20px;
+    float: left;
+    width: 50%;
+    height: 50%;
+    border-style: solid;
+    /* hace que no se dervorde el contenido, se mantenga en el area */
+    overflow: auto;
+}
+
+footer {
+    clear: both;
+}
