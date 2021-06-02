@@ -1,0 +1,26 @@
+/*
+PRACTICA3 CSS PROFESIONAL
+*/
+
+P {
+    color:rgb(0, 162, 255)
+}
+pre {
+    background-color: rosybrown;
+    color:rgb(71, 201, 168)
+}
+h1 {
+    background-color:greenyellow;
+    color:rgb(173, 112, 32);
+    border: solid;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+body {
+    background-color:rgb(205, 223, 217)
+}
