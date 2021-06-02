@@ -1,0 +1,44 @@
+/*
+PRACTICA5 CSS PROFESIONAL CAJAS FLOTANTES
+*/
+
+body {
+    color: white;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+div {
+    /* anchura */
+    width: 150px;
+    /* altura */
+    height: 70px;
+    text-align: center; 
+    /* margin: 10px; */
+    padding: 30px;
+    border-radius: 30px;
+}
+
+/* # se usa para señalar el id */
+#cajaNegra{
+    background-color:black;
+    /* float: left; */
+    clear: both;
+    width:100%;
+}
+#cajaAzul{
+    background-color:blue;
+    float: left;
+}
+#cajaVerde{
+    background-color:green;
+    float: left;
+}
+#cajaRoja{
+    background-color:red;
+    float: left;
+    clear: both;
+    width: 100%;
+}
