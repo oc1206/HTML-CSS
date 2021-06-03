@@ -1,6 +1,7 @@
 /* hoja de estilo Practica 8c css */
 
 *{
+    /*  esto sirve para que todo encaje a las medidas dadas nativas */
     box-sizing: border-box;
     /* border-style:groove ; */
     /* margin: 0px; */
