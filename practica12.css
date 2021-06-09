@@ -1,0 +1,47 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.menuh{
+    overflow: hidden;
+    border: 5px double;
+}
+
+.menuh a{
+    background-color:black;
+    color:white;
+    text-decoration: none;
+    float: right;
+    width: 25%;
+    text-align: center;
+    padding: 15px;
+}
+
+.menuh a:hover{
+    background-color:white;
+    color: black;
+}
+
+.menuv{
+    float: left;
+    width: 25%;
+    overflow: hidden;
+    border: 5px double;
+}
+
+.menuv a{
+    background-color:black;
+    color: white;
+    text-decoration: none;
+    text-align:center;
+    display: block;
+    padding: 20px;
+
+}
+
+.menuv a:hover{
+    background-color:white;
+    color :black;
+}
