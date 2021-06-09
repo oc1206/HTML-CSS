@@ -1,0 +1,22 @@
+body{
+    background-color:red;
+}
+
+header {
+    background-color:white;
+    text-align:center;
+    border:7px solid black;
+    border-radius: 20px;
+    margin:10px;
+}
+
+video {
+    width: 90%;
+    /* centra */
+    margin: auto;
+    display: block;
+}
+
+audio {
+    padding-top: 10px;
+}
