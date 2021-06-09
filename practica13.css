@@ -1,0 +1,21 @@
+
+
+
+h1{
+    text-align: center;
+}
+
+section{
+    width: 70%;
+    margin: auto;
+    border: dashed;
+    padding: 20px;
+}
+
+.listd {
+   background-color:aqua; 
+}
+
+.listo{
+    background-color:green;
+}
