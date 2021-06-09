@@ -1,0 +1,37 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+#videofondo{
+    position: fixed;
+    min-height: 100%;
+    min-width: 100%;
+}
+
+header, footer {
+    background-color: rgb(196, 183, 125);
+    padding: 20px;
+    /* opacidad min0 max1 */
+    opacity: 0.4;
+}
+
+header{
+    position: fixed;
+    width: 100%;
+    top: 0px;
+}
+
+footer {
+
+    /* posicion fija */
+    position: fixed;
+    width:100%;
+    /* posiscion desde la parte de abajo(botton) desde 0 */
+    bottom: 0px;
+}
+
+h2{
+    text-align: center;
+}
