@@ -1,0 +1,31 @@
+/* 
+font-family: 'Baloo Tammudu 2', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Source Serif Pro', serif; 
+*/
+
+h1{
+    text-align: center;
+}
+
+section{
+    display:flex;
+}
+
+h2{
+    padding:20px;
+}
+
+.s1{
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+.s2{
+    font-family: 'Lobster', cursive;
+}
+.s3{
+    font-family: 'Roboto', sans-serif;
+}
+.s4{
+    font-family: 'Source Serif Pro', serif;
+}
