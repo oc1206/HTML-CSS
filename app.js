@@ -1,1 +1,1 @@
-console.log("Mensaje por consola");
+console.log("Mensaje por consola ahora");
